@@ -1,0 +1,22 @@
+{
+  "name": "camelcasing-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debadipti/camelcasing-blog.git"
+  },
+  "author": "Debadipti Patra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debadipti/camelcasing-blog/issues"
+  },
+  "homepage": "https://github.com/debadipti/camelcasing-blog#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
